@@ -12,5 +12,6 @@ git clone https://github.com/ezynook/fastapi-mongodb.git
 ```bash
 docker-compose up -d --build
 ```
+---
 
-### Author: ```Pasit Yodsoi```
+#### Author: ```Pasit Yodsoi```
