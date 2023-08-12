@@ -12,6 +12,12 @@ git clone https://github.com/ezynook/fastapi-mongodb.git
 ```bash
 docker-compose up -d --build
 ```
+## Url to Access Web Browser
+
+```javascript
+http://localhost:8000/docs
+```
+
 ---
 
 #### Author: ```Pasit Yodsoi```
